@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AsukFavour
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning python,django framework
+- 🌱 HTML,CSS,Java-Script, Django
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me twitter @AsukFavour
+- 📫 How to reach me twitter @AsukFavour 0r favourasuk@gmail.com
 
 <!---
 AsukFavour/AsukFavour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
