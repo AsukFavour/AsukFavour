@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsukFavour
 - 👀 I’m interested in programming in general
-- 🌱 HTML,CSS,Java-Script, Django
+- 🌱 HTML,CSS,Java-Script,React js|  Django
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me twitter @AsukFavour 0r favourasuk@gmail.com
 
