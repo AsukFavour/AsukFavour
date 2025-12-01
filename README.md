@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AsukFavour
 - 👀 I’m interested in programming in general
-- 🌱 HTML,CSS,Java-Script,React js|Next js  Django
+- 🌱 HTML,CSS,Java-Script,React js|Next js, React Native. 
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me twitter @AsukFavour 0r favourasuk@gmail.com
+- 📫 How to reach me twitter @AsukFavour Or favourasuk@gmail.com
 
 <!---
 AsukFavour/AsukFavour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
